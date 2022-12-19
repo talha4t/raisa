@@ -1,0 +1,15 @@
+C:\Users\Talha\Documents\code\raisa\csProgram\raisa\bin\Debug\net6.0\raisa.exe
+C:\Users\Talha\Documents\code\raisa\csProgram\raisa\bin\Debug\net6.0\raisa.deps.json
+C:\Users\Talha\Documents\code\raisa\csProgram\raisa\bin\Debug\net6.0\raisa.runtimeconfig.json
+C:\Users\Talha\Documents\code\raisa\csProgram\raisa\bin\Debug\net6.0\raisa.dll
+C:\Users\Talha\Documents\code\raisa\csProgram\raisa\bin\Debug\net6.0\raisa.pdb
+C:\Users\Talha\Documents\code\raisa\csProgram\raisa\obj\Debug\net6.0\raisa.csproj.AssemblyReference.cache
+C:\Users\Talha\Documents\code\raisa\csProgram\raisa\obj\Debug\net6.0\raisa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Talha\Documents\code\raisa\csProgram\raisa\obj\Debug\net6.0\raisa.AssemblyInfoInputs.cache
+C:\Users\Talha\Documents\code\raisa\csProgram\raisa\obj\Debug\net6.0\raisa.AssemblyInfo.cs
+C:\Users\Talha\Documents\code\raisa\csProgram\raisa\obj\Debug\net6.0\raisa.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Documents\code\raisa\csProgram\raisa\obj\Debug\net6.0\raisa.dll
+C:\Users\Talha\Documents\code\raisa\csProgram\raisa\obj\Debug\net6.0\refint\raisa.dll
+C:\Users\Talha\Documents\code\raisa\csProgram\raisa\obj\Debug\net6.0\raisa.pdb
+C:\Users\Talha\Documents\code\raisa\csProgram\raisa\obj\Debug\net6.0\raisa.genruntimeconfig.cache
+C:\Users\Talha\Documents\code\raisa\csProgram\raisa\obj\Debug\net6.0\ref\raisa.dll

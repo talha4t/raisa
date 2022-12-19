@@ -1,0 +1,15 @@
+C:\Users\Talha\Documents\code\raisa\primeNumber\bin\Debug\net6.0\primeNumber.exe
+C:\Users\Talha\Documents\code\raisa\primeNumber\bin\Debug\net6.0\primeNumber.deps.json
+C:\Users\Talha\Documents\code\raisa\primeNumber\bin\Debug\net6.0\primeNumber.runtimeconfig.json
+C:\Users\Talha\Documents\code\raisa\primeNumber\bin\Debug\net6.0\primeNumber.dll
+C:\Users\Talha\Documents\code\raisa\primeNumber\bin\Debug\net6.0\primeNumber.pdb
+C:\Users\Talha\Documents\code\raisa\primeNumber\obj\Debug\net6.0\primeNumber.csproj.AssemblyReference.cache
+C:\Users\Talha\Documents\code\raisa\primeNumber\obj\Debug\net6.0\primeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Talha\Documents\code\raisa\primeNumber\obj\Debug\net6.0\primeNumber.AssemblyInfoInputs.cache
+C:\Users\Talha\Documents\code\raisa\primeNumber\obj\Debug\net6.0\primeNumber.AssemblyInfo.cs
+C:\Users\Talha\Documents\code\raisa\primeNumber\obj\Debug\net6.0\primeNumber.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Documents\code\raisa\primeNumber\obj\Debug\net6.0\primeNumber.dll
+C:\Users\Talha\Documents\code\raisa\primeNumber\obj\Debug\net6.0\refint\primeNumber.dll
+C:\Users\Talha\Documents\code\raisa\primeNumber\obj\Debug\net6.0\primeNumber.pdb
+C:\Users\Talha\Documents\code\raisa\primeNumber\obj\Debug\net6.0\primeNumber.genruntimeconfig.cache
+C:\Users\Talha\Documents\code\raisa\primeNumber\obj\Debug\net6.0\ref\primeNumber.dll

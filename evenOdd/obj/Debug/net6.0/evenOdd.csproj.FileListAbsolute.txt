@@ -1,0 +1,15 @@
+C:\Users\Talha\Documents\code\raisa\evenOdd\bin\Debug\net6.0\evenOdd.exe
+C:\Users\Talha\Documents\code\raisa\evenOdd\bin\Debug\net6.0\evenOdd.deps.json
+C:\Users\Talha\Documents\code\raisa\evenOdd\bin\Debug\net6.0\evenOdd.runtimeconfig.json
+C:\Users\Talha\Documents\code\raisa\evenOdd\bin\Debug\net6.0\evenOdd.dll
+C:\Users\Talha\Documents\code\raisa\evenOdd\bin\Debug\net6.0\evenOdd.pdb
+C:\Users\Talha\Documents\code\raisa\evenOdd\obj\Debug\net6.0\evenOdd.csproj.AssemblyReference.cache
+C:\Users\Talha\Documents\code\raisa\evenOdd\obj\Debug\net6.0\evenOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Talha\Documents\code\raisa\evenOdd\obj\Debug\net6.0\evenOdd.AssemblyInfoInputs.cache
+C:\Users\Talha\Documents\code\raisa\evenOdd\obj\Debug\net6.0\evenOdd.AssemblyInfo.cs
+C:\Users\Talha\Documents\code\raisa\evenOdd\obj\Debug\net6.0\evenOdd.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Documents\code\raisa\evenOdd\obj\Debug\net6.0\evenOdd.dll
+C:\Users\Talha\Documents\code\raisa\evenOdd\obj\Debug\net6.0\refint\evenOdd.dll
+C:\Users\Talha\Documents\code\raisa\evenOdd\obj\Debug\net6.0\evenOdd.pdb
+C:\Users\Talha\Documents\code\raisa\evenOdd\obj\Debug\net6.0\evenOdd.genruntimeconfig.cache
+C:\Users\Talha\Documents\code\raisa\evenOdd\obj\Debug\net6.0\ref\evenOdd.dll
