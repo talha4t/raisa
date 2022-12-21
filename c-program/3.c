@@ -2,21 +2,20 @@
 
 int main() {
 
-    int a[5] = {88, 99, 61, 4, 25};
+    int a[5] = {24, 4, 61, 99, 25};
 
-    int min = a[1];
+    int max = a[0];
     int loc = 1;
 
-    
-    for (int i = 1; i <= 5; i = i + 1) {
-        if (min > a[i]) { 
-            min = a[i];
-            loc = i;
+    for (int i = 0; i < 5; i = i + 1) {
+        if (max < a[i]) { // max =
+            max = a[i]; // max = 99
+            loc = i; // loc = 3
         }
     }
 
-    printf("%d\n", min);
-    printf("%d", loc);
+    printf("%d\n", max);
+    printf("%d", loc + 1);
 
     return 0;
 }
