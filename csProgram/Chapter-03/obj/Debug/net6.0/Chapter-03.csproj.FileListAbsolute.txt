@@ -1,0 +1,5 @@
+C:\Users\Talha\Documents\code\raisa\csProgram\Chapter-03\obj\Debug\net6.0\Chapter-03.csproj.AssemblyReference.cache
+C:\Users\Talha\Documents\code\raisa\csProgram\Chapter-03\obj\Debug\net6.0\Chapter-03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Talha\Documents\code\raisa\csProgram\Chapter-03\obj\Debug\net6.0\Chapter-03.AssemblyInfoInputs.cache
+C:\Users\Talha\Documents\code\raisa\csProgram\Chapter-03\obj\Debug\net6.0\Chapter-03.AssemblyInfo.cs
+C:\Users\Talha\Documents\code\raisa\csProgram\Chapter-03\obj\Debug\net6.0\Chapter-03.csproj.CoreCompileInputs.cache

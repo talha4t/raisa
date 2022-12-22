@@ -38,6 +38,16 @@ namespace _chapter02
 
             // Console.WriteLine(areaOfCircle);
 
+             int n = 10;
+
+            if (n & 1) {
+                Console.WriteLine("Odd");
+            }
+            else {
+                Console.WriteLine("even");
+        }
+        
+
         }
     }
 }
