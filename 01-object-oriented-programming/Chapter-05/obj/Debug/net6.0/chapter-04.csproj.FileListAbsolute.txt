@@ -1,0 +1,15 @@
+C:\Users\Talha\Documents\code\raisa\01-object-oriented-programming\chapter-05\bin\Debug\net6.0\chapter-04.exe
+C:\Users\Talha\Documents\code\raisa\01-object-oriented-programming\chapter-05\bin\Debug\net6.0\chapter-04.deps.json
+C:\Users\Talha\Documents\code\raisa\01-object-oriented-programming\chapter-05\bin\Debug\net6.0\chapter-04.runtimeconfig.json
+C:\Users\Talha\Documents\code\raisa\01-object-oriented-programming\chapter-05\bin\Debug\net6.0\chapter-04.dll
+C:\Users\Talha\Documents\code\raisa\01-object-oriented-programming\chapter-05\bin\Debug\net6.0\chapter-04.pdb
+C:\Users\Talha\Documents\code\raisa\01-object-oriented-programming\chapter-05\obj\Debug\net6.0\chapter-04.csproj.AssemblyReference.cache
+C:\Users\Talha\Documents\code\raisa\01-object-oriented-programming\chapter-05\obj\Debug\net6.0\chapter-04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Talha\Documents\code\raisa\01-object-oriented-programming\chapter-05\obj\Debug\net6.0\chapter-04.AssemblyInfoInputs.cache
+C:\Users\Talha\Documents\code\raisa\01-object-oriented-programming\chapter-05\obj\Debug\net6.0\chapter-04.AssemblyInfo.cs
+C:\Users\Talha\Documents\code\raisa\01-object-oriented-programming\chapter-05\obj\Debug\net6.0\chapter-04.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Documents\code\raisa\01-object-oriented-programming\chapter-05\obj\Debug\net6.0\chapter-04.dll
+C:\Users\Talha\Documents\code\raisa\01-object-oriented-programming\chapter-05\obj\Debug\net6.0\refint\chapter-04.dll
+C:\Users\Talha\Documents\code\raisa\01-object-oriented-programming\chapter-05\obj\Debug\net6.0\chapter-04.pdb
+C:\Users\Talha\Documents\code\raisa\01-object-oriented-programming\chapter-05\obj\Debug\net6.0\chapter-04.genruntimeconfig.cache
+C:\Users\Talha\Documents\code\raisa\01-object-oriented-programming\chapter-05\obj\Debug\net6.0\ref\chapter-04.dll
