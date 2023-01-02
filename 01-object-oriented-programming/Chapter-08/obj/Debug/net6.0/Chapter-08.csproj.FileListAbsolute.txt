@@ -1,0 +1,15 @@
+C:\Users\Talha\Documents\code\raisa\01-object-oriented-programming\Chapter-08\bin\Debug\net6.0\Chapter-08.exe
+C:\Users\Talha\Documents\code\raisa\01-object-oriented-programming\Chapter-08\bin\Debug\net6.0\Chapter-08.deps.json
+C:\Users\Talha\Documents\code\raisa\01-object-oriented-programming\Chapter-08\bin\Debug\net6.0\Chapter-08.runtimeconfig.json
+C:\Users\Talha\Documents\code\raisa\01-object-oriented-programming\Chapter-08\bin\Debug\net6.0\Chapter-08.dll
+C:\Users\Talha\Documents\code\raisa\01-object-oriented-programming\Chapter-08\bin\Debug\net6.0\Chapter-08.pdb
+C:\Users\Talha\Documents\code\raisa\01-object-oriented-programming\Chapter-08\obj\Debug\net6.0\Chapter-08.csproj.AssemblyReference.cache
+C:\Users\Talha\Documents\code\raisa\01-object-oriented-programming\Chapter-08\obj\Debug\net6.0\Chapter-08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Talha\Documents\code\raisa\01-object-oriented-programming\Chapter-08\obj\Debug\net6.0\Chapter-08.AssemblyInfoInputs.cache
+C:\Users\Talha\Documents\code\raisa\01-object-oriented-programming\Chapter-08\obj\Debug\net6.0\Chapter-08.AssemblyInfo.cs
+C:\Users\Talha\Documents\code\raisa\01-object-oriented-programming\Chapter-08\obj\Debug\net6.0\Chapter-08.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Documents\code\raisa\01-object-oriented-programming\Chapter-08\obj\Debug\net6.0\Chapter-08.dll
+C:\Users\Talha\Documents\code\raisa\01-object-oriented-programming\Chapter-08\obj\Debug\net6.0\refint\Chapter-08.dll
+C:\Users\Talha\Documents\code\raisa\01-object-oriented-programming\Chapter-08\obj\Debug\net6.0\Chapter-08.pdb
+C:\Users\Talha\Documents\code\raisa\01-object-oriented-programming\Chapter-08\obj\Debug\net6.0\Chapter-08.genruntimeconfig.cache
+C:\Users\Talha\Documents\code\raisa\01-object-oriented-programming\Chapter-08\obj\Debug\net6.0\ref\Chapter-08.dll
