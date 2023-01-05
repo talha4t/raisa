@@ -29,19 +29,40 @@ namespace _chapter_08
             // string name = "Mahmud";
             // ShowName(name);
 
-            int a = 10, b = 15;
+            //int a = 10, b = 15;
 
-            SWAP(a, b);
+            //SWAP(ref a, ref b);
 
-            Console.WriteLine("a = " + a +" " + "b = " + b);
+            //Console.WriteLine("a = " + a +" " + "b = " + b);
+
+            
+            //int[] arr = new int[5];
+
+            //Convert.ToInt32(Console.ReadLine());
+
+            //for (int i = 0; i < 5; i++)
+            //{
+             //   arr[i] = Convert.ToInt32(Console.ReadLine());
+            //}
+
+            //int sum = 0;
+            //for (int i = 0; i < 5; i++)
+            //{
+              //  sum = sum + arr[i];
+            //}
+
+            //Console.WriteLine("the sum is " + sum);
+            
+            //Console.ReadKey();
 
         }
 
-        static void SWAP(int a, int b)
+        static void SWAP(ref int a, ref int b)
         {
             int temp = a;
             a = b;
             b = temp;
+
         } 
 
         // static void ShowName(string aName)
